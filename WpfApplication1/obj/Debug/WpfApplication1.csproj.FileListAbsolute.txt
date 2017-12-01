@@ -12,3 +12,6 @@ D:\Sample\WPFJenkins\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.P
 D:\Sample\WPFJenkins\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
 D:\Sample\WPFJenkins\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
 D:\Sample\WPFJenkins\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Sample\JenkinsDemo\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Sample\JenkinsDemo\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Sample\JenkinsDemo\WpfApplication1\obj\Debug\WpfApplication1.pdb
